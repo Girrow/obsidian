@@ -62,8 +62,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -117,8 +116,8 @@
   },
   "lastOpenFiles": [
     "Query - 1.md",
+    "Untitled.md",
     "2021-04-05.md",
-    "2021-04-06.md",
-    "Untitled.md"
+    "2021-04-06.md"
   ]
 }

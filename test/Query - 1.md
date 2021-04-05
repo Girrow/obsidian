@@ -23,9 +23,9 @@ DEFAULT = ALL
 
 ```
 
-<mark class='green'> </mark>
+<mark class='green'> test</mark>
 ## 단일 행 함수
-
+![[HR.sql]]
 ---
 ##### 참고
 [[2021-04-05]]
