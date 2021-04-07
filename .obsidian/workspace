@@ -4,29 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "1ac6c20454238abf",
+        "id": "4ad01e47efbe2aee",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "study/19장 정책과 수준.md",
+            "mode": "source"
+          }
+        },
+        "group": "05c37c3d49817739"
+      },
+      {
+        "id": "195373465c086b85",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SQL/SQL_3장. 기본.md",
-            "mode": "source"
-          }
-        },
-        "group": "1e539893bc49204c"
-      },
-      {
-        "id": "195373465c086b85",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SQL/SQL_3장. 기본.md",
+            "file": "study/19장 정책과 수준.md",
             "mode": "preview"
           }
         },
-        "group": "1e539893bc49204c"
+        "group": "05c37c3d49817739"
       }
     ],
     "direction": "vertical"
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQL_3장. 기본.md",
+                "file": "study/19장 정책과 수준.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,12 +108,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "study/19장 정책과 수준.md",
+    "study/18장 경계 해부학.md",
+    "study/17장 경계 선 긋기.md",
+    "study/20장 업무 규칙.md",
+    "study/CLEAN_20.md",
+    "study/CLEAN_19.md",
+    "study/CLEAN_18.md",
+    "study/CLEAN_17.md",
     "Untitled.md",
-    "SQL/SQL_1장. 데이터 모델링의 이해.md",
-    "test/Query - 1.md",
-    "test/한 줌.md",
-    "test/Agenda.md",
-    "test/2021-04-06.md",
-    "test/2021-04-05.md"
+    "SQL/SQL_3장. 기본.md"
   ]
 }
